@@ -20,7 +20,7 @@ The project utilizes an ESP32-CAM with the MobileNet V2 FOMO algorithm via Edge 
 <br />
 # Device Installation
 ![alt text](https://github.com/Aradea-Ikh1/Monitoring-System-for-Smokers-Ethics-in-Non-Smoking-Area/blob/master/Device%20Installation.jpg)
-![alt text](https://github.com/Aradea-Ikh1/Monitoring-System-for-Smokers-Ethics-in-Non-Smoking-Area/blob/master/Device%20Installation%20Team.jpg)
+![alt text](https://github.com/Aradea-Ikh1/Monitoring-System-for-Smokers-Ethics-in-Non-Smoking-Area/blob/master/Device%20Installation_Team.jpg)
 # System Trial and Result
 ### System Trial
 ![alt text](https://github.com/Aradea-Ikh1/Monitoring-System-for-Smokers-Ethics-in-Non-Smoking-Area/blob/master/System%20Trial.jpg)
