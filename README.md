@@ -18,6 +18,9 @@ The project utilizes an ESP32-CAM with the MobileNet V2 FOMO algorithm via Edge 
 ### 3D Design Case Printed
 ![alt text](https://github.com/Aradea-Ikh1/Monitoring-System-for-Smokers-Ethics-in-Non-Smoking-Area/blob/master/Hasil%203D%20Print_Sisi%20Depan.jpg)
 <br />
+# Device Installation
+![alt text](https://github.com/Aradea-Ikh1/Monitoring-System-for-Smokers-Ethics-in-Non-Smoking-Area/blob/master/Device%20Installation.jpg)
+![alt text](https://github.com/Aradea-Ikh1/Monitoring-System-for-Smokers-Ethics-in-Non-Smoking-Area/blob/master/Device%20Installation%20Team.jpg)
 # System Trial and Result
 ### System Trial
 ![alt text](https://github.com/Aradea-Ikh1/Monitoring-System-for-Smokers-Ethics-in-Non-Smoking-Area/blob/master/System%20Trial.jpg)
